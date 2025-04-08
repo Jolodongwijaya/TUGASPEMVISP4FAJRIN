@@ -1,0 +1,17 @@
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\bin\Debug\net8.0-windows\MenuTransaksiMakanan.exe
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\bin\Debug\net8.0-windows\MenuTransaksiMakanan.deps.json
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\bin\Debug\net8.0-windows\MenuTransaksiMakanan.runtimeconfig.json
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\bin\Debug\net8.0-windows\MenuTransaksiMakanan.dll
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\bin\Debug\net8.0-windows\MenuTransaksiMakanan.pdb
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.Form1.resources
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.Properties.Resources.resources
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.AssemblyInfo.cs
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.dll
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\refint\MenuTransaksiMakanan.dll
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.pdb
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\MenuTransaksiMakanan.genruntimeconfig.cache
+C:\Users\muham\source\repos\MenuTransaksiMakanan\MenuTransaksiMakanan\obj\Debug\net8.0-windows\ref\MenuTransaksiMakanan.dll
